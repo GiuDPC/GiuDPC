@@ -14,7 +14,7 @@ Based in Venezuela. I build scalable web applications with a focus on backend se
 
 🛠️ *Tech Stack:*
 - *Languages:* JavaScript (ES6+), HTML5, CSS3.
-- *Backend:* Node.js, Express, MongoDB (Mongoose).
+- *Backend:* Node.js, Express, Docker, MongoDB (Mongoose).
 - *Tools:* Git, Postman, Vercel, Render.
 
 🎯 *Looking for:* Remote Junior Developer roles in LATAM or US.
