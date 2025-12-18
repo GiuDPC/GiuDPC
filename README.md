@@ -28,4 +28,4 @@ Whether it's about a job opportunity, a project idea, or just to say hi, feel fr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuDPC&layout=compact&theme=dark)
 ## Technologies
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,nodejs,gsap,render,mongodb,Docker,barbajs,mongoose,vercel,jwt,expressjs,github,vscode,git,)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,nodejs,gsap,render,mongodb,barbajs,mongoose,vercel,jwt,expressjs,github,vscode,git,)
