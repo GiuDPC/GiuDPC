@@ -1,31 +1,65 @@
 ![banner](https://i.postimg.cc/155bVWwg/Hi-I-m-Giuseppe-Poliandri-20251217-164809-0000.png)
 
-### Hi there, I'm Giuseppe 👋
-*Junior Full Stack Developer | Systems Engineering Student*
+## Hi there, I'm Giuseppe
 
-Based in Venezuela. I build scalable web applications with a focus on backend security and frontend performance.
+**Junior Full Stack Developer | Systems Engineering Student**
 
-🚀 *Highlight Project:*
-*BrincaPark Reservation System:* A full-stack SaaS platform featuring:
-- Real-time analytics dashboard.
-- JWT-based secure authentication.
-- Dynamic pricing engine with caching strategies.
-- Responsive SPA design with GSAP animations.
+Based in Venezuela. I build scalable web applications with a focus on backend security, testing, and DevOps practices.
 
-🛠️ *Tech Stack:*
-- *Languages:* JavaScript (ES6+), HTML5, CSS3.
-- *Backend:* Node.js, Express, MongoDB (Mongoose).
-- *Tools:* Git, Postman, Vercel, Render.
+---
 
-🎯 *Looking for:* Remote Junior Developer roles in LATAM or US.
+### Highlight Project: BrincaPark
 
-☕ Let's chat!
+A full-stack reservation management system for amusement parks.
 
-Whether it's about a job opportunity, a project idea, or just to say hi, feel free to reach out:
-👉 *poliandrigiuseppe0@gmail.com*
-## Github status
+| Feature | Technology |
+|---------|------------|
+| REST API | Node.js, Express |
+| Database | MongoDB Atlas, Mongoose |
+| Authentication | JWT |
+| Containerization | Docker, docker-compose |
+| Testing | Vitest, Supertest (9 tests) |
+| CI/CD | GitHub Actions |
+| Frontend | Vanilla JS, GSAP, Chart.js |
+| Deployment | Vercel + Render |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuDPC&layout=compact&theme=dark)
-## Technologies
+<p align="center">
+  <a href="https://brincapark-reservation-system.vercel.app/"><strong>Live Demo</strong></a> ·
+  <a href="https://github.com/GiuDPC/brincapark-reservation-system"><strong>Source Code</strong></a>
+</p>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,nodejs,gsap,render,mongodb,barbajs,mongoose,vercel,jwt,expressjs,github,vscode,git,)
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,expressjs,mongodb,docker,github,git,html,css,vscode" />
+</p>
+
+| Category | Technologies |
+|----------|-------------|
+| Backend | Node.js, Express, REST APIs, JWT |
+| Database | MongoDB, Mongoose |
+| DevOps | Docker, GitHub Actions, CI/CD |
+| Testing | Vitest, Supertest |
+| Frontend | JavaScript (ES6+), HTML5, CSS3, GSAP |
+| Tools | Git, Postman, VS Code |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuDPC&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### Open to Work
+
+Looking for **Remote Junior Developer** roles in LATAM.
+
+<p align="center">
+  <a href="mailto:giuseppepoliandri07@gmail.com"><img src="https://img.shields.io/badge/Email-giuseppepoliandri07%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/giuseppe-poliandri"><img src="https://img.shields.io/badge/LinkedIn-Giuseppe_Poliandri-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
