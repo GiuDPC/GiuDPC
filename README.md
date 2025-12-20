@@ -61,5 +61,5 @@ Looking for **Remote Junior Developer** roles in LATAM.
 
 <p align="center">
   <a href="mailto:giuseppepoliandri07@gmail.com"><img src="https://img.shields.io/badge/Email-giuseppepoliandri07%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/giuseppe-poliandri"><img src="https://img.shields.io/badge/LinkedIn-Giuseppe_Poliandri-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="http://www.linkedin.com/in/giuseppe-poliandri0"><img src="https://img.shields.io/badge/LinkedIn-Giuseppe_Poliandri-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
