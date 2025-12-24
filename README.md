@@ -78,14 +78,14 @@ A robust reservation management system built with a microservices-ready architec
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiuDPC&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Giuseppe" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiuDPC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuDPC&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Top" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuDPC&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" />
 </div>
 
 ---
