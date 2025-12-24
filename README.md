@@ -82,11 +82,6 @@ A robust reservation management system built with a microservices-ready architec
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiuDPC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiuDPC&theme=tokyonight" alt="Top Languages" />
-</div>
 
 ---
 
