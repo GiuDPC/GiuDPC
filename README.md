@@ -11,7 +11,7 @@
   </p>
 
   <a href="mailto:giuseppepoliandri07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-giuseppepoliandri07%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="http://www.linkedin.com/in/giuseppe-poliandri0">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,7 +22,7 @@
 
 ## Highlight Projects
 
-### 📊 SalesVision - Sales Analytics Dashboard
+### SalesVision - Sales Analytics Dashboard
 A full-stack sales analytics platform designed for real-time decision making.
 
 | **Category** | **Technologies Used** |
@@ -81,8 +81,9 @@ A robust reservation management system built with a microservices-ready architec
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiuDPC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Giuseppe's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuDPC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiuDPC&show_icons=true&theme=tokyonight&hide_border=true" alt="Giuseppe's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuDPC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
